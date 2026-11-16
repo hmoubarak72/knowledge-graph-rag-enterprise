@@ -1,0 +1,40 @@
+{"id": "R01", "query": "NVIDIA cybersecurity risk management program", "company": "NVDA", "all_of": [], "section_prefix": "Item 1C"}
+{"id": "R02", "query": "NVIDIA legal proceedings and litigation", "company": "NVDA", "all_of": [], "section_prefix": "Item 3"}
+{"id": "R03", "query": "NVIDIA human capital and number of employees", "company": "NVDA", "all_of": ["employees"]}
+{"id": "R04", "query": "NVIDIA export controls and restrictions on sales to China", "company": "NVDA", "all_of": ["export"]}
+{"id": "R05", "query": "NVIDIA reliance on third-party foundries and suppliers", "company": "NVDA", "all_of": ["supplier"]}
+{"id": "R06", "query": "NVIDIA competition and competitors", "company": "NVDA", "all_of": ["compet"]}
+{"id": "R07", "query": "NVIDIA research and development expense", "company": "NVDA", "all_of": ["research and development"]}
+{"id": "R08", "query": "AMD cybersecurity risk management program", "company": "AMD", "all_of": [], "section_prefix": "Item 1C"}
+{"id": "R09", "query": "AMD legal proceedings and litigation", "company": "AMD", "all_of": [], "section_prefix": "Item 3"}
+{"id": "R10", "query": "AMD human capital and number of employees", "company": "AMD", "all_of": ["employees"]}
+{"id": "R11", "query": "AMD export controls and restrictions on sales to China", "company": "AMD", "all_of": ["export"]}
+{"id": "R12", "query": "AMD reliance on third-party foundries and suppliers", "company": "AMD", "all_of": ["supplier"]}
+{"id": "R13", "query": "AMD competition and competitors", "company": "AMD", "all_of": ["compet"]}
+{"id": "R14", "query": "AMD research and development expense", "company": "AMD", "all_of": ["research and development"]}
+{"id": "R15", "query": "Intel cybersecurity risk management program", "company": "INTC", "all_of": [], "section_prefix": "Item 1C"}
+{"id": "R16", "query": "Intel legal proceedings and litigation", "company": "INTC", "all_of": [], "section_prefix": "Item 3"}
+{"id": "R17", "query": "Intel human capital and number of employees", "company": "INTC", "all_of": ["employees"]}
+{"id": "R18", "query": "Intel export controls and restrictions on sales to China", "company": "INTC", "all_of": ["export"]}
+{"id": "R19", "query": "Intel reliance on third-party foundries and suppliers", "company": "INTC", "all_of": ["supplier"]}
+{"id": "R20", "query": "Intel competition and competitors", "company": "INTC", "all_of": ["compet"]}
+{"id": "R21", "query": "Intel research and development expense", "company": "INTC", "all_of": ["research and development"]}
+{"id": "R22", "query": "Qualcomm cybersecurity risk management program", "company": "QCOM", "all_of": [], "section_prefix": "Item 1C"}
+{"id": "R23", "query": "Qualcomm legal proceedings and litigation", "company": "QCOM", "all_of": [], "section_prefix": "Item 3"}
+{"id": "R24", "query": "Qualcomm human capital and number of employees", "company": "QCOM", "all_of": ["employees"]}
+{"id": "R25", "query": "Qualcomm export controls and restrictions on sales to China", "company": "QCOM", "all_of": ["export"]}
+{"id": "R26", "query": "Qualcomm reliance on third-party foundries and suppliers", "company": "QCOM", "all_of": ["supplier"]}
+{"id": "R27", "query": "Qualcomm competition and competitors", "company": "QCOM", "all_of": ["compet"]}
+{"id": "R28", "query": "Qualcomm research and development expense", "company": "QCOM", "all_of": ["research and development"]}
+{"id": "R29", "query": "Broadcom cybersecurity risk management program", "company": "AVGO", "all_of": [], "section_prefix": "Item 1C"}
+{"id": "R30", "query": "Broadcom legal proceedings and litigation", "company": "AVGO", "all_of": [], "section_prefix": "Item 3"}
+{"id": "R31", "query": "Broadcom human capital and number of employees", "company": "AVGO", "all_of": ["employees"]}
+{"id": "R32", "query": "Broadcom export controls and restrictions on sales to China", "company": "AVGO", "all_of": ["export"]}
+{"id": "R33", "query": "Broadcom reliance on third-party foundries and suppliers", "company": "AVGO", "all_of": ["supplier"]}
+{"id": "R34", "query": "Broadcom competition and competitors", "company": "AVGO", "all_of": ["compet"]}
+{"id": "R35", "query": "Broadcom research and development expense", "company": "AVGO", "all_of": ["research and development"]}
+{"id": "R36", "query": "NVIDIA wafer manufacturing by TSMC", "company": "NVDA", "all_of": ["Taiwan Semiconductor"]}
+{"id": "R37", "query": "Broadcom VMware acquisition", "company": "AVGO", "all_of": ["VMware"]}
+{"id": "R38", "query": "AMD acquisition of Xilinx", "company": "AMD", "all_of": ["Xilinx"]}
+{"id": "R39", "query": "Qualcomm licensing business QTL royalties", "company": "QCOM", "all_of": ["licens"]}
+{"id": "R40", "query": "Intel Foundry manufacturing segment", "company": "INTC", "all_of": ["Intel Foundry"]}

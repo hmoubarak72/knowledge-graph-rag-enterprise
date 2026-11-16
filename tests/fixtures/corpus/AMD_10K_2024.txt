@@ -1,0 +1,15 @@
+SYNTHETIC TEST FIXTURE - NOT A REAL SEC FILING. Short 10-K-shaped text used only by unit tests.
+
+Item 1. Business
+
+Advanced Micro Devices, Inc. is a global semiconductor company. In 2022 we completed the acquisition of Xilinx, adding adaptive computing products to our Embedded segment.
+
+Lisa Su, our Chair and Chief Executive Officer, has served in that role since 2014. Our reportable segments are Data Center, Client, Gaming and Embedded.
+
+We rely on Taiwan Semiconductor Manufacturing Company Limited to manufacture our wafers at advanced process nodes. We also purchase memory from Samsung and Micron.
+
+We compete with Intel and NVIDIA across CPUs and GPUs. Our competitors have substantial resources and established customer relationships.
+
+Item 1A. Risk Factors
+
+Our products are subject to the Export Administration Regulations. Restrictions on shipments of certain data center GPUs to China could adversely affect our business and results of operations in future periods.

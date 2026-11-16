@@ -1,0 +1,25 @@
+SYNTHETIC TEST FIXTURE - NOT A REAL SEC FILING. Short 10-K-shaped text used only by unit tests.
+
+Table of Contents
+Item 1. Business 4
+Item 1A. Risk Factors 12
+Item 3. Legal Proceedings 30
+
+PART I
+Item 1. Business
+
+NVIDIA Corporation pioneered accelerated computing. Our data center platform includes GPUs, CPUs and networking. In fiscal 2020 we acquired Mellanox, which became the basis of our networking business.
+
+We utilize foundries such as Taiwan Semiconductor Manufacturing Company Limited to manufacture our semiconductor wafers. We also rely on memory suppliers including Micron and SK hynix.
+
+Our competitors include AMD, Intel and Broadcom, which compete with us in data center and networking markets. We compete on performance, software ecosystem and power efficiency.
+
+Jensen Huang, our President and Chief Executive Officer, co-founded the company in 1993. Our employees numbered approximately 36,000 at the end of the fiscal year, located across many countries.
+
+Item 1A. Risk Factors
+
+Our sales to China are subject to the Export Administration Regulations, administered by the Bureau of Industry and Security. New licensing requirements restrict exports of certain data center products, and we may be unable to sell those products to customers in China. These export restrictions could materially reduce our revenue from the affected regions and may encourage customers to seek alternatives.
+
+Item 3. Legal Proceedings
+
+Please see Note 13 of the Notes to the Consolidated Financial Statements for a discussion of our legal proceedings. We are party to securities class actions which we believe lack merit, and we intend to defend them vigorously.

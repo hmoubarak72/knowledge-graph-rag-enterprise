@@ -1,0 +1,207 @@
+{
+  "Company": [
+    [
+      "Taiwan Semiconductor Manufacturing Company Limited",
+      "TSMC",
+      "Taiwan Semiconductor Manufacturing"
+    ],
+    [
+      "Samsung Electronics Co., Ltd.",
+      "Samsung",
+      "Samsung Electronics"
+    ],
+    [
+      "Advanced Micro Devices, Inc.",
+      "AMD"
+    ],
+    [
+      "QUALCOMM Incorporated",
+      "Qualcomm",
+      "QTI",
+      "Qualcomm Technologies, Inc."
+    ],
+    [
+      "Broadcom Inc.",
+      "Broadcom",
+      "Avago Technologies"
+    ],
+    [
+      "NVIDIA Corporation",
+      "NVIDIA",
+      "Nvidia"
+    ],
+    [
+      "Intel Corporation",
+      "Intel"
+    ],
+    [
+      "Arm Holdings plc",
+      "Arm",
+      "ARM Limited",
+      "Arm Ltd."
+    ],
+    [
+      "Amazon Web Services, Inc.",
+      "AWS",
+      "Amazon Web Services"
+    ],
+    [
+      "Alphabet Inc.",
+      "Google",
+      "Google LLC"
+    ],
+    [
+      "Meta Platforms, Inc.",
+      "Meta",
+      "Facebook"
+    ],
+    [
+      "Microsoft Corporation",
+      "Microsoft"
+    ],
+    [
+      "Apple Inc.",
+      "Apple"
+    ],
+    [
+      "Hon Hai Precision Industry Co., Ltd.",
+      "Foxconn",
+      "Hon Hai"
+    ],
+    [
+      "Advanced Semiconductor Engineering, Inc.",
+      "ASE",
+      "ASE Technology Holding"
+    ],
+    [
+      "Amkor Technology, Inc.",
+      "Amkor"
+    ],
+    [
+      "SK hynix Inc.",
+      "SK Hynix",
+      "Hynix"
+    ],
+    [
+      "Micron Technology, Inc.",
+      "Micron"
+    ],
+    [
+      "Mellanox Technologies, Ltd.",
+      "Mellanox"
+    ],
+    [
+      "VMware, Inc.",
+      "VMware",
+      "VMware LLC"
+    ],
+    [
+      "Xilinx, Inc.",
+      "Xilinx"
+    ],
+    [
+      "Mobileye Global Inc.",
+      "Mobileye"
+    ],
+    [
+      "Altera Corporation",
+      "Altera"
+    ],
+    [
+      "Pensando Systems, Inc.",
+      "Pensando"
+    ],
+    [
+      "ZT Group Int'l, Inc.",
+      "ZT Systems"
+    ],
+    [
+      "NUVIA, Inc.",
+      "NUVIA",
+      "Nuvia"
+    ]
+  ],
+  "RegulatoryBody": [
+    [
+      "U.S. Department of Commerce",
+      "Department of Commerce",
+      "Commerce Department",
+      "USG Commerce"
+    ],
+    [
+      "Bureau of Industry and Security",
+      "BIS"
+    ],
+    [
+      "U.S. Securities and Exchange Commission",
+      "SEC",
+      "Securities and Exchange Commission"
+    ],
+    [
+      "European Commission",
+      "EC",
+      "EU Commission"
+    ],
+    [
+      "State Administration for Market Regulation",
+      "SAMR"
+    ],
+    [
+      "Federal Trade Commission",
+      "FTC"
+    ],
+    [
+      "Korea Fair Trade Commission",
+      "KFTC"
+    ]
+  ],
+  "Regulation": [
+    [
+      "Export Administration Regulations",
+      "EAR"
+    ],
+    [
+      "CHIPS and Science Act",
+      "CHIPS Act",
+      "U.S. CHIPS Act"
+    ],
+    [
+      "General Data Protection Regulation",
+      "GDPR"
+    ],
+    [
+      "Foreign Corrupt Practices Act",
+      "FCPA"
+    ]
+  ],
+  "Location": [
+    [
+      "United States",
+      "U.S.",
+      "US",
+      "USA",
+      "United States of America"
+    ],
+    [
+      "China",
+      "People's Republic of China",
+      "PRC",
+      "Mainland China"
+    ],
+    [
+      "Taiwan",
+      "Taiwan, R.O.C."
+    ],
+    [
+      "United Kingdom",
+      "UK",
+      "U.K."
+    ]
+  ],
+  "Person": [
+    [
+      "Jensen Huang",
+      "Jen-Hsun Huang"
+    ]
+  ]
+}

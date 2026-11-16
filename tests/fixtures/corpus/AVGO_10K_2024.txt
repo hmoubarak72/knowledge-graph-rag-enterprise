@@ -1,0 +1,15 @@
+SYNTHETIC TEST FIXTURE - NOT A REAL SEC FILING. Short 10-K-shaped text used only by unit tests.
+
+Item 1. Business
+
+Broadcom Inc. designs semiconductor and infrastructure software solutions. In November 2023 we completed the acquisition of VMware, which now forms the core of our infrastructure software segment.
+
+Hock Tan, our President and Chief Executive Officer, has led the company since 2006. We have two reportable segments: semiconductor solutions and infrastructure software.
+
+We depend on Taiwan Semiconductor Manufacturing Company Limited to manufacture the majority of our wafers. Any disruption at this foundry could harm our ability to deliver products.
+
+We compete with NVIDIA and Intel in networking and custom accelerators. Competition in our markets is intense and characterized by rapid technological change.
+
+Item 1A. Risk Factors
+
+Our integration of VMware may not achieve the expected benefits, and customer retention in the infrastructure software segment may be lower than anticipated. Our operations are subject to the Export Administration Regulations and other trade controls.

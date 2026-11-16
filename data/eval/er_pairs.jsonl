@@ -1,0 +1,53 @@
+{"a": "Acme Corp", "b": "Acme Corporation", "type": "Company", "same": true}
+{"a": "Acme Corp", "b": "ACME", "type": "Company", "same": true}
+{"a": "NVIDIA Corporation", "b": "NVIDIA", "type": "Company", "same": true}
+{"a": "Advanced Micro Devices, Inc.", "b": "AMD", "type": "Company", "same": true}
+{"a": "Intel Corporation", "b": "Intel Corp.", "type": "Company", "same": true}
+{"a": "QUALCOMM Incorporated", "b": "Qualcomm", "type": "Company", "same": true}
+{"a": "Broadcom Inc.", "b": "Broadcom", "type": "Company", "same": true}
+{"a": "Taiwan Semiconductor Manufacturing Company Limited", "b": "Taiwan Semiconductor Manufacturing Co., Ltd.", "type": "Company", "same": true}
+{"a": "Samsung Electronics Co., Ltd.", "b": "Samsung Electronics", "type": "Company", "same": true}
+{"a": "Micron Technology, Inc.", "b": "Micron Technology", "type": "Company", "same": true}
+{"a": "SK hynix Inc.", "b": "SK Hynix", "type": "Company", "same": true}
+{"a": "Microsoft Corporation", "b": "Microsoft Corp", "type": "Company", "same": true}
+{"a": "Amazon.com, Inc.", "b": "Amazon.com", "type": "Company", "same": true}
+{"a": "Meta Platforms, Inc.", "b": "Meta Platforms", "type": "Company", "same": true}
+{"a": "Arm Holdings plc", "b": "Arm Holdings", "type": "Company", "same": true}
+{"a": "Mellanox Technologies, Ltd.", "b": "Mellanox Technologies", "type": "Company", "same": true}
+{"a": "VMware, Inc.", "b": "VMware LLC", "type": "Company", "same": true}
+{"a": "Xilinx, Inc.", "b": "Xilinx", "type": "Company", "same": true}
+{"a": "Mobileye Global Inc.", "b": "Mobileye Global", "type": "Company", "same": true}
+{"a": "Hon Hai Precision Industry Co., Ltd.", "b": "Hon Hai Precision Industry", "type": "Company", "same": true}
+{"a": "Intel Corporation", "b": "Intel Foundry", "type": "Company", "same": false}
+{"a": "NVIDIA Corporation", "b": "NVIDIA Mellanox", "type": "Company", "same": false}
+{"a": "Advanced Micro Devices", "b": "Applied Materials", "type": "Company", "same": false}
+{"a": "Samsung Electronics", "b": "Samsung SDI", "type": "Company", "same": false}
+{"a": "Micron Technology", "b": "Microchip Technology", "type": "Company", "same": false}
+{"a": "Qualcomm", "b": "Qualcomm Ventures", "type": "Company", "same": false}
+{"a": "Amazon.com", "b": "Amazon Web Services", "type": "Company", "same": false}
+{"a": "Alphabet Inc.", "b": "Alphabet Capital", "type": "Company", "same": false}
+{"a": "Arm Holdings", "b": "ARM Investments", "type": "Company", "same": false}
+{"a": "Broadcom Inc.", "b": "Broadcom Foundation", "type": "Company", "same": false}
+{"a": "Texas Instruments", "b": "Texas Pacific Land", "type": "Company", "same": false}
+{"a": "Marvell Technology", "b": "Microsoft", "type": "Company", "same": false}
+{"a": "Analog Devices", "b": "Advanced Micro Devices", "type": "Company", "same": false}
+{"a": "SK hynix", "b": "SK Telecom", "type": "Company", "same": false}
+{"a": "ASE Technology", "b": "ASML Holding", "type": "Company", "same": false}
+{"a": "GlobalFoundries", "b": "Global Industries", "type": "Company", "same": false}
+{"a": "Dell Technologies", "b": "Dell Financial Services", "type": "Company", "same": false}
+{"a": "Lenovo Group", "b": "Lenovo Capital", "type": "Company", "same": false}
+{"a": "Jensen Huang", "b": "Jen-Hsun Huang", "type": "Person", "same": true}
+{"a": "Lisa T. Su", "b": "Lisa Su", "type": "Person", "same": true}
+{"a": "Hock E. Tan", "b": "Hock Tan", "type": "Person", "same": true}
+{"a": "Cristiano R. Amon", "b": "Cristiano Amon", "type": "Person", "same": true}
+{"a": "Lisa Su", "b": "Lisa Smith", "type": "Person", "same": false}
+{"a": "Hock Tan", "b": "Lip-Bu Tan", "type": "Person", "same": false}
+{"a": "Pat Gelsinger", "b": "Patrick P. Gelsinger", "type": "Person", "same": true}
+{"a": "Colette Kress", "b": "Colette M. Kress", "type": "Person", "same": true}
+{"a": "H100", "b": "H200", "type": "Product", "same": false}
+{"a": "Fiscal 2024 revenue", "b": "Fiscal 2025 revenue", "type": "Product", "same": false}
+{"a": "Blackwell", "b": "Blackwell platform", "type": "Product", "same": true}
+{"a": "EPYC processors", "b": "EPYC", "type": "Product", "same": true}
+{"a": "Export Administration Regulations", "b": "Export Administration Regulation", "type": "Regulation", "same": true}
+{"a": "U.S. Department of Commerce", "b": "Department of Commerce", "type": "RegulatoryBody", "same": true}
+{"a": "European Commission", "b": "European Court of Justice", "type": "RegulatoryBody", "same": false}

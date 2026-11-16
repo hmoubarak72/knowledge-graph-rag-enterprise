@@ -1,0 +1,45 @@
+services:
+  neo4j:
+    image: neo4j:5.26-community
+    container_name: kgrag-neo4j
+    ports: ["7474:7474", "7687:7687"]
+    environment:
+      NEO4J_AUTH: neo4j/${NEO4J_PASSWORD:-kgrag-dev-password}
+      NEO4J_PLUGINS: '["apoc"]'
+      NEO4J_server_memory_heap_max__size: 1G
+    volumes: ["neo4j_data:/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "cypher-shell -u neo4j -p $${NEO4J_AUTH#neo4j/} 'RETURN 1' || exit 1"]
+      interval: 10s
+      retries: 10
+
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: kgrag-postgres
+    ports: ["5432:5432"]
+    environment:
+      POSTGRES_USER: kgrag
+      POSTGRES_PASSWORD: kgrag
+      POSTGRES_DB: kgrag
+    volumes: ["pg_data:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U kgrag"]
+      interval: 5s
+      retries: 10
+
+  api:
+    build: .
+    profiles: ["api"]
+    env_file: .env
+    environment:
+      NEO4J_URI: bolt://neo4j:7687
+      PG_DSN: postgresql://kgrag:kgrag@postgres:5432/kgrag
+    ports: ["8000:8000"]
+    depends_on:
+      neo4j: {condition: service_healthy}
+      postgres: {condition: service_healthy}
+    volumes: ["./data:/app/data"]
+
+volumes:
+  neo4j_data:
+  pg_data:
