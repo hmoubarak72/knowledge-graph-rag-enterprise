@@ -8,3 +8,6 @@ data/corpus/
 data/cache/
 data/logs/
 data/results/
+
+# Private planning documents (kept locally, not published)
+*.docx
